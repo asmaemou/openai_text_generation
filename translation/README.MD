@@ -1,0 +1,1 @@
+Let's create a simple Python script that uses Hugging Face Transformers to perform text translation. We'll use a pre-trained model from the Hugging Face Model Hub, specifically one of the MarianMT models (developed by the Helsinki-NLP team), which supports a wide range of language translations.
